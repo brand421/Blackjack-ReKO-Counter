@@ -1,0 +1,5 @@
+M:\counter'\bin\Debug\net6.0\publish\counter'.exe
+M:\counter'\bin\Debug\net6.0\publish\counter'.dll
+M:\counter'\bin\Debug\net6.0\publish\counter'.deps.json
+M:\counter'\bin\Debug\net6.0\publish\counter'.runtimeconfig.json
+M:\counter'\bin\Debug\net6.0\publish\counter'.pdb

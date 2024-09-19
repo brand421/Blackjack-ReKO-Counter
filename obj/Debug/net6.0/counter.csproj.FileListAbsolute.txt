@@ -1,0 +1,15 @@
+M:\counter\bin\Debug\net6.0\counter.exe
+M:\counter\bin\Debug\net6.0\counter.deps.json
+M:\counter\bin\Debug\net6.0\counter.runtimeconfig.json
+M:\counter\bin\Debug\net6.0\counter.dll
+M:\counter\bin\Debug\net6.0\counter.pdb
+M:\counter\obj\Debug\net6.0\counter.csproj.AssemblyReference.cache
+M:\counter\obj\Debug\net6.0\counter.GeneratedMSBuildEditorConfig.editorconfig
+M:\counter\obj\Debug\net6.0\counter.AssemblyInfoInputs.cache
+M:\counter\obj\Debug\net6.0\counter.AssemblyInfo.cs
+M:\counter\obj\Debug\net6.0\counter.csproj.CoreCompileInputs.cache
+M:\counter\obj\Debug\net6.0\counter.dll
+M:\counter\obj\Debug\net6.0\refint\counter.dll
+M:\counter\obj\Debug\net6.0\counter.pdb
+M:\counter\obj\Debug\net6.0\counter.genruntimeconfig.cache
+M:\counter\obj\Debug\net6.0\ref\counter.dll
